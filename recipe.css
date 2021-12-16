@@ -1,0 +1,42 @@
+body {
+  background-color: lightblue;
+}
+
+.steps_table{
+  background-color : #D6EEEE;
+  border-spacing : 50px;
+}
+
+.intro_table{
+  border-collapse : collapse ;
+  border-spacing : 50px;
+}
+
+#ingredient{
+  display: block;
+
+}
+
+.ingredients_column{
+  display: block;
+  width : 620px;
+}
+#preparation{
+  width: 800px;
+}
+
+.description p{
+
+  max-width:700px;
+  line-height: 35px;
+  margin: 0px 0 0 61px;
+
+}
+td.description{
+    display: block;
+}
+
+.format{
+  max-width: 1500px;
+  margin: 0 auto;
+}
